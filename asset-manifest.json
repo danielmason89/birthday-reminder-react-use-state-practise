@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/birthday-reminder-react-use-state-practise/static/css/main.10d6a708.chunk.css",
+    "main.js": "/birthday-reminder-react-use-state-practise/static/js/main.ecd6a66c.chunk.js",
+    "main.js.map": "/birthday-reminder-react-use-state-practise/static/js/main.ecd6a66c.chunk.js.map",
+    "runtime-main.js": "/birthday-reminder-react-use-state-practise/static/js/runtime-main.7ad83c3d.js",
+    "runtime-main.js.map": "/birthday-reminder-react-use-state-practise/static/js/runtime-main.7ad83c3d.js.map",
+    "static/js/2.1f771bf1.chunk.js": "/birthday-reminder-react-use-state-practise/static/js/2.1f771bf1.chunk.js",
+    "static/js/2.1f771bf1.chunk.js.map": "/birthday-reminder-react-use-state-practise/static/js/2.1f771bf1.chunk.js.map",
+    "index.html": "/birthday-reminder-react-use-state-practise/index.html",
+    "precache-manifest.f8017bf13d2c7a3438b39c41e5e73a7d.js": "/birthday-reminder-react-use-state-practise/precache-manifest.f8017bf13d2c7a3438b39c41e5e73a7d.js",
+    "service-worker.js": "/birthday-reminder-react-use-state-practise/service-worker.js",
+    "static/css/main.10d6a708.chunk.css.map": "/birthday-reminder-react-use-state-practise/static/css/main.10d6a708.chunk.css.map",
+    "static/js/2.1f771bf1.chunk.js.LICENSE.txt": "/birthday-reminder-react-use-state-practise/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ad83c3d.js",
+    "static/js/2.1f771bf1.chunk.js",
+    "static/css/main.10d6a708.chunk.css",
+    "static/js/main.ecd6a66c.chunk.js"
+  ]
+}
